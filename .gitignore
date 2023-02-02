@@ -1,0 +1,47 @@
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+mono_crash.*
+.vs/
+Generated\ Files/
+~$*
+*~
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+*- [Bb]ackup.rdl
+*- [Bb]ackup ([0-9]).rdl
+*- [Bb]ackup ([0-9][0-9]).rdl
+.ntvs_analysis.dat
+node_modules/
+__pycache__/
+*.pyc
+healthchecksdb
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+.Python
+build/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+pip-log.txt
+pip-delete-this-directory.txt
+.ipynb_checkpoints
+__pypackages__/
+.env
+.venv
+env/
+venv/
+.idea/
